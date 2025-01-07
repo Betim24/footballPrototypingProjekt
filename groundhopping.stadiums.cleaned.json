@@ -1,0 +1,164 @@
+[
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5513c"
+        },
+        "name": "Stadion Wankdorf",
+        "city": "Bern",
+        "capacity": 31783,
+        "teams": "Young Boys"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55141"
+        },
+        "name": "Kybunpark",
+        "city": "St. Gallen",
+        "capacity": 19456,
+        "teams": "FC St. Gallen"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55144"
+        },
+        "name": "Stadion Br\u00fcgglifeld",
+        "city": "Aarau",
+        "capacity": 8154,
+        "teams": "FC Aarau"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55142"
+        },
+        "name": "Stadion Sch\u00fctzenwiese",
+        "city": "Winterthur",
+        "capacity": 8800,
+        "teams": "FC Winterthur"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55140"
+        },
+        "name": "Stade de la Tuili\u00e8re",
+        "city": "Lausanne",
+        "capacity": 12500,
+        "teams": "FC Lausanne-Sport"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5513b"
+        },
+        "name": "Stadion Letzigrund",
+        "city": "Z\u00fcrich",
+        "capacity": 26104,
+        "teams": "FC Z\u00fcrich"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55146"
+        },
+        "name": "LIPO Park",
+        "city": "Schaffhausen",
+        "capacity": 8200,
+        "teams": "FC Schaffhausen"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55148"
+        },
+        "name": "Stade de la Maladi\u00e8re",
+        "city": "Neuch\u00e2tel",
+        "capacity": 12000,
+        "teams": "Neuch\u00e2tel Xamax"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55143"
+        },
+        "name": "Swissporarena",
+        "city": "Luzern",
+        "capacity": 16490,
+        "teams": "FC Luzern"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5514b"
+        },
+        "name": "Stade Olympique de la Pontaise",
+        "city": "Lausanne",
+        "capacity": 15000,
+        "teams": "Stade Lausanne-Ouchy"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5513d"
+        },
+        "name": "St. Jakob-Park",
+        "city": "Basel",
+        "capacity": 37950,
+        "teams": "FC Basel"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5513e"
+        },
+        "name": "Stadio di Cornaredo",
+        "city": "Lugano",
+        "capacity": 15000,
+        "teams": "FC Lugano"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55147"
+        },
+        "name": "Stadio Comunale",
+        "city": "Bellinzona",
+        "capacity": 5300,
+        "teams": "AC Bellinzona"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5513f"
+        },
+        "name": "Stade de Gen\u00e8ve",
+        "city": "Genf",
+        "capacity": 30084,
+        "teams": "Servette FC"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55145"
+        },
+        "name": "IGP Arena",
+        "city": "Wil",
+        "capacity": 6040,
+        "teams": "FC Wil"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e55149"
+        },
+        "name": "Rheinpark Stadion",
+        "city": "Vaduz",
+        "capacity": 7564,
+        "teams": "FC Vaduz"
+    },
+    {
+        "_id": {
+            "$oid": "677807e9e1596a3187e5514a"
+        },
+        "name": "Stockhorn Arena",
+        "city": "Thun",
+        "capacity": 10000,
+        "teams": "FC Thun"
+    },
+    {
+        "_id": {
+            "$oid": "677d0c8364a8824b3ce87c62"
+        },
+        "name": "Kleine Allmend",
+        "city": "Frauenfeld",
+        "capacity": 1200,
+        "teams": "Frauenfeld"
+    }
+]
